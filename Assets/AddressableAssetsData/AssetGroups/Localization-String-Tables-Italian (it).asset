@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Italian (it)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Italian (it)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1d089b366e8ddca48912a4c4f9abb126
+  m_SerializeEntries:
+  - m_GUID: 529d8c518367c45209cd34683f17a4f9
+    m_Address: UI Misc_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+  - m_GUID: f584e44a7ba44433c9f0a1b1a6aa6d3d
+    m_Address: Inventory Item Description_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+  - m_GUID: 298f95f9e1762b54db041502d5a09ff3
+    m_Address: Questline Dialogue_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+  - m_GUID: 8d64c2a9fccc2614baa07c24841aca37
+    m_Address: Actors_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+  - m_GUID: 6ff28064e4e684b65b9c22aa501c01c5
+    m_Address: Interactions_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+  - m_GUID: 814875ad6f732459cbcaa6b34f05a466
+    m_Address: Inventory Item Name_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: ff2dbfaba4a82c349b07d5db79470acc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 36463bbb461f75741b0604a39ae58f10, type: 2}
+    - {fileID: 11400000, guid: 78718a46a37f71049bef68e8dcb6314f, type: 2}
